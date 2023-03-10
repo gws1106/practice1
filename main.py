@@ -1,5 +1,5 @@
-from remainder import reaminder_func   #from 파이선파일이름 import 함수이름
-from square import square_func
+from remain_square import reaminder_func   #from 파이선파일이름 import 함수이름
+from remain_square import square_func
 
 ##함수
 def mul_func(n1, n2):
@@ -18,3 +18,9 @@ print(f"곱하기 결과 : {res}")
 
 res = div_func(num1, num2)
 print(f"나누기 결과 : {res}")
+
+res = remainder_func(num1, num2)
+print(f"나머지 결과 : {res}")
+
+res = square_func(num1, num2)
+print(f"제곱 결과 : {res}")
