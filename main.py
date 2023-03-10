@@ -1,4 +1,4 @@
-from remain_square import reaminder_func   #from 파이선파일이름 import 함수이름
+from remain_square import remainder_func   #from 파이선파일이름 import 함수이름
 from remain_square import square_func
 
 ##함수
